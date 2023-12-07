@@ -6,7 +6,7 @@ function toggleLike(postId) {
 
 function shareContent() {
     // Get the content you want to share (replace this with your actual content)
-    var contentToShare = "https://restaurantguru.com/Parola-Seaview-Restaurant-Cordova";
+    var contentToShare = "https://juliusagbo.github.io/Parola-blogs/";
 
     // Use the Clipboard API to copy the content to the clipboard
     navigator.clipboard.writeText(contentToShare)
